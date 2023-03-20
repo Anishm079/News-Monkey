@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Rishi Sunak refuses to say if he uses private GP",
+    "description": "The PM says his healthcare is \"a personal choice\", as a union leader urges him to \"come clean\".",
+    "url": "http://www.bbc.co.uk/news/uk-politics-64202855",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10D95/production/_128231096_sunak1.jpg",
+    "publishedAt": "2023-01-08T11:22:22.3864142Z",
+    "content": "Media caption, Watch: Rishi Sunak refuses to to say if he is registered with private GP\r\nPrime Minister Rishi Sunak has repeatedly refused to say whether he uses private healthcare, insisting it is \"… [+2356 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Jack Ma to give up control of fintech giant Ant Group",
+    "description": "The billionaire has seldom been seen in public since criticising China's financial sector in 2020.",
+    "url": "http://www.bbc.co.uk/news/business-64192382",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9589/production/_128218283_jackma.jpg",
+    "publishedAt": "2023-01-08T11:07:25.677313Z",
+    "content": "The billionaire founder of Ant Group, Jack Ma, is to give up control of the Chinese fintech giant after a regulatory crackdown.\r\nAnt Group said that after the change no-one would have overall control… [+2730 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Kevin McCarthy elected US House Speaker after 15 rounds of voting",
+    "description": "The Republican is finally chosen after a week of chaos and angry scenes between colleagues in his own party.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64193932",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/875C/production/_128225643_gaetz_mccarthy.jpg",
+    "publishedAt": "2023-01-08T11:07:20.3332817Z",
+    "content": "Media caption, \"That was easy, huh?\" Kevin McCarthy makes first speech after becoming Speaker\r\nKevin McCarthy has been elected Speaker of the US House of Representatives after heated exchanges which … [+5154 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "China reopens borders to tourists after three years of Covid closure",
+    "description": "It comes as the world's largest annual migration event, Lunar New Year, begins.",
+    "url": "http://www.bbc.co.uk/news/world-asia-china-64201776",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DF73/production/_128230275_6b86cb46ffb3ba4d9c3ba056a449a363dbd2de5e0_311_6311_35511000x563.jpg",
+    "publishedAt": "2023-01-08T09:37:23.3481784Z",
+    "content": "China has reopened its borders to international visitors for the first time since it imposed travel restrictions in March 2020.\r\nIncoming travellers will no longer need to quarantine - marking a sign… [+1950 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Iranian man held in Germany over suspected chemical attack",
+    "description": "Police raided the man's residence where they say they found toxic chemicals.",
+    "url": "http://www.bbc.co.uk/news/world-europe-64201772",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/177CB/production/_128230269_gettyimages-1371820062.jpg",
+    "publishedAt": "2023-01-08T08:07:23.3321323Z",
+    "content": "A 32-year-old Iranian man has been arrested in Germany for allegedly plotting an \"Islamist-motivated\" attack. \r\nThe man had been plotting to use cyanide and ricin to commit a \"serious act of violence… [+815 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Newport News: Condition of teacher shot by child improving",
+    "description": "Abby Zwerner suffered life-threatening injuries after being shot by a six-year-old student on Friday.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64200873",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17568/production/_128229559_zwerner.jpg",
+    "publishedAt": "2023-01-08T02:07:17.4576846Z",
+    "content": "The condition of a Virginia teacher left seriously injured when she was shot by a six-year-old pupil has shown signs of improvement, authorities say.\r\nAbby Zwerner suffered life-threatening injuries … [+2826 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC Sport",
+    "title": "Raiders & Chiefs in displays of support for Hamlin",
+    "description": "The Las Vegas Raiders and the Kansas City Chiefs show support for Damar Hamlin before the first NFL game since the Buffalo Bills safety collapsed.",
+    "url": "http://www.bbc.co.uk/sport/american-football/64200806",
+    "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/D798/production/_128229155_gettyimages-1454867830.jpg",
+    "publishedAt": "2023-01-08T00:52:23.4928544Z",
+    "content": "Kansas City Chiefs quarterback Patrick Mahomes wore a pre-game top in support of Damar Hamlin\r\nThe Las Vegas Raiders and the Kansas City Chiefs showed support for Damar Hamlin before the first NFL ga… [+3403 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Fan outrage at Susan Meachen, the romance novelist accused of faking her death",
+    "description": "The drama surrounding author Susan Meachen's alleged death hoax is stranger than fiction.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64179548",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14912/production/_128224248_gettyimages-94381370.jpg",
+    "publishedAt": "2023-01-08T00:07:21.6649912Z",
+    "content": "No one saw this plot twist coming. \r\nIn September 2020, a Facebook post from someone claiming to be the daughter of indie romance author Susan Meachen announced the writer had died by suicide. \r\nMs M… [+5571 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ana Montes: Top spy freed in US after more than 20 years",
+    "description": "Ana Montes was described as being among \"the most damaging spies\" ever caught by the US.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64200872",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7E88/production/_128229323_ana_montes.jpg",
+    "publishedAt": "2023-01-07T23:52:21.8852987Z",
+    "content": "Ana Montes - among the best-known Cold War spies caught by the US - has been released from prison after more than 20 years in custody.\r\nThe 65-year-old spent almost two decades spying for Cuba while … [+3088 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: The Christmas ceasefire that wasn't",
+    "description": "Few in Ukraine's eastern city of Bakhmut expected Russia's declared truce to be matched with action.",
+    "url": "http://www.bbc.co.uk/news/world-europe-64199649",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CFBE/production/_128228135_67f01094ec681502675f21f388d06608bf8cb4e70_0_6000_40001000x667.jpg",
+    "publishedAt": "2023-01-07T17:37:22.3067432Z",
+    "content": "The drive from Kostyantynivka to Bakhmut is like dropping off a cliff of civilisation. \r\nThe \"pops\" of outgoing tank fire tell you you're getting close to one of the most active parts of the front li… [+2693 chars]"
+    }
+    ]
+    }
